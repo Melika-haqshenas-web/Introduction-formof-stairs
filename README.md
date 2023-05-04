@@ -12,7 +12,7 @@
 
 📅- Created - 2023-03-13
 
-⌨- Technologies Used - Html , hover , translate , rotate
+⌨- Technologies Used - Html , css , scss , hover , translate , rotate
 
 - Hooks Used : useState 
 
