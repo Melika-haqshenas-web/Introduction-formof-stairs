@@ -2,9 +2,9 @@
 
 👋**You can use this template to introduce yourself**
 
-![earth1](https://user-images.githubusercontent.com/126666369/236171436-5b5132c4-9687-4c83-b06c-9a64cf0e5e6c.jpg)
+![1](https://user-images.githubusercontent.com/126666369/236267514-40128022-8318-4c98-8ee1-e8e3411c3f71.jpg)
 
-![earth2](https://user-images.githubusercontent.com/126666369/236171447-e2eadf89-4b9e-4d23-9e98-e7fc31d2ce4e.jpg)
+![2](https://user-images.githubusercontent.com/126666369/236267696-625ee234-d71a-43ed-a8c0-3cd9798eb7c4.jpg)
 
 - [Demo Project](https://melika-haqshenas-web.github.io/Building-Site/)
 
